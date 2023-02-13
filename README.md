@@ -13,3 +13,6 @@ local to remote : git init and git push
 4. Retreive modification from the remote repository `git pull`
 
 Don't forget the `git status` to keep track of the current state
+
+We use dev branch to work with other developpers without break the “main” code.
+`git checkout -b dev`
